@@ -4,7 +4,7 @@
 This project is based on a hypothetical scenario created for educational and analytical purposes. Summit Wealth Partners does not represent a real company, and the datasets, transactions, and financial records used in this analysis are simulated. Any resemblance to actual persons, businesses, or financial institutions is purely coincidental.
 
 ### Table of Contents
-- [Introduction](#introduction)
+- [1. Introduction](#1.introduction)
 - [Objectives](#objectives)
 - [Deliverables](#deliverables)
 - [Data Model](#data-model)
