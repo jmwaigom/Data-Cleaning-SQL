@@ -1,8 +1,5 @@
-# Summit Wealth Partners: Client Portfolio Performance and Risk Analysis
+# When Data Fails: A Deep Dive into a Project That Couldn’t Proceed
 ![skyscraper WEB](https://github.com/user-attachments/assets/16f03688-1d64-4516-9bfa-85ca22e19b49)
-
-
-
 ## Disclaimer
 This project is based on a hypothetical scenario created for educational and analytical purposes. Summit Wealth Partners does not represent a real company, and the datasets, transactions, and financial records used in this analysis are simulated. Any resemblance to actual persons, businesses, or financial institutions is purely coincidental.
 
