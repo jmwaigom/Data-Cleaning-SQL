@@ -4,20 +4,20 @@
 This project is based on a hypothetical scenario created for educational and analytical purposes. Summit Wealth Partners does not represent a real company, and the datasets, transactions, and financial records used in this analysis are simulated. Any resemblance to actual persons, businesses, or financial institutions is purely coincidental.
 
 ### Table of Contents
-- [Introduction](#introduction)
-- [Dataset Overview](#dataset-overview)
-- [Data Preparation & Cleaning](#data-preparation--cleaning)
-  - [Handling Duplicates](#handling-duplicates)
-  - [Handling Null Values](#handling-null-values)
-  - [Data Integrity Checks](#data-integrity-checks)
-  - [Establishing Relationships](#establishing-relationships)
-- [Critical Data Issues](#critical-data-issues)
-  - [Invalid Sell Transactions](#invalid-sell-transactions)
-  - [Over-Selling of Securities](#over-selling-of-securities)
-  - [Account Balances Inconsistencies](#account-balances-inconsistencies)
-- [Conclusion & Recommendations](#conclusion--recommendations)
-  - [Key Takeaways](#key-takeaways)
-  - [Recommendations](#recommendations)
+- [1. Introduction](#1-introduction)
+- [2. Dataset Overview](#2-dataset-overview)
+- [3. Data Preparation & Cleaning](#3-data-preparation--cleaning)
+  - [3.1 Handling Duplicates](#31-handling-duplicates)
+  - [3.2 Handling Null Values](#32-handling-null-values)
+  - [3.3 Data Integrity Checks](#33-data-integrity-checks)
+  - [3.4 Establishing Relationships](#34-establishing-relationships)
+- [4. Critical Data Issues](#4-critical-data-issues)
+  - [4.1 Invalid Sell Transactions](#41-invalid-sell-transactions)
+  - [4.2 Over-Selling of Securities](#42-over-selling-of-securities)
+  - [4.3 Account Balances Inconsistencies](#43-account-balances-inconsistencies)
+- [5. Conclusion & Recommendations](#5-conclusion--recommendations)
+  - [5.1 Key Takeaways](#51-key-takeaways)
+  - [5.2 Recommendations](#52-recommendations)
 
 ## 1. Introduction
 Summit Wealth Partners, a premier investment firm, launched a data analytics initiative to optimize client portfolio performance, detect investment trends, and mitigate risks. The project aimed to clean and analyze datasets related to clients, accounts, investments, transactions, and market prices using SQL for data cleaning and Python for advanced analysis and visualization.
