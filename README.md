@@ -4,14 +4,20 @@
 This project is based on a hypothetical scenario created for educational and analytical purposes. Summit Wealth Partners does not represent a real company, and the datasets, transactions, and financial records used in this analysis are simulated. Any resemblance to actual persons, businesses, or financial institutions is purely coincidental.
 
 ### Table of Contents
-- [1. Introduction](#1.introduction)
-- [Objectives](#objectives)
-- [Deliverables](#deliverables)
-- [Data Model](#data-model)
-- [Data Issues](#data-issues)
-- [Key Insights](#key-insights)
-- [Skills and Techniques Used](#skills-and-techniques-used)
-- [Conclusion](#conclusion)
+- [Introduction](#introduction)
+- [Dataset Overview](#dataset-overview)
+- [Data Preparation & Cleaning](#data-preparation--cleaning)
+  - [Handling Duplicates](#handling-duplicates)
+  - [Handling Null Values](#handling-null-values)
+  - [Data Integrity Checks](#data-integrity-checks)
+  - [Establishing Relationships](#establishing-relationships)
+- [Critical Data Issues](#critical-data-issues)
+  - [Invalid Sell Transactions](#invalid-sell-transactions)
+  - [Over-Selling of Securities](#over-selling-of-securities)
+  - [Account Balances Inconsistencies](#account-balances-inconsistencies)
+- [Conclusion & Recommendations](#conclusion--recommendations)
+  - [Key Takeaways](#key-takeaways)
+  - [Recommendations](#recommendations)
 
 ## 1. Introduction
 Summit Wealth Partners, a premier investment firm, launched a data analytics initiative to optimize client portfolio performance, detect investment trends, and mitigate risks. The project aimed to clean and analyze datasets related to clients, accounts, investments, transactions, and market prices using SQL for data cleaning and Python for advanced analysis and visualization.
