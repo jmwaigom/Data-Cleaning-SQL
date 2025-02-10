@@ -69,7 +69,10 @@ The project did not proceed beyond the data cleaning phase due to significant da
 ### 5.2 Recommendations
 To improve data quality for future analysis, stricter data validation protocols should be implemented. Real-time validation should be used to flag transactions where a client attempts to sell securities they have not purchased. Additionally, transaction history should be reconstructed to ensure that each sell transaction has a corresponding buy record. Automated account balance reconciliation should be implemented to detect and correct discrepancies before data analysis. Furthermore, regular data audits should be performed to identify inconsistencies early and prevent flawed records from accumulating.
 
-Due to the fundamental flaws in the dataset, the project was halted before exploratory data analysis or portfolio performance assessments could begin. This report serves as documentation of the data preparation efforts and highlights areas where data integrity improvements are necessary for future projects.
+Due to the fundamental flaws in the dataset, the project was halted before exploratory data analysis or portfolio performance assessments could begin. This report serves as documentation of the data preparation efforts and highlights areas where data integrity improvements are necessary for future projects. 
+
+In a client-facing project, I would have worked closely with data engineers and business stakeholders to trace the root cause of the missing buy records—whether due to system failures, incomplete transaction logs, or manual data entry errors. Implementing audit trails, cross-referencing historical records, and engaging with compliance teams would have been key steps to reconstruct lost data or ensure more reliable reporting. However, with no access to such external validation, the project had to be halted at the cleaning stage.
+
 
 
 
