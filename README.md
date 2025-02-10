@@ -1,5 +1,8 @@
 # Summit Wealth Partners: Client Portfolio Performance and Risk Analysis
 
+## Disclaimer
+This project is based on a hypothetical scenario created for educational and analytical purposes. Summit Wealth Partners does not represent a real company, and the datasets, transactions, and financial records used in this analysis are simulated. Any resemblance to actual persons, businesses, or financial institutions is purely coincidental.
+
 ## 1. Introduction
 Summit Wealth Partners, a premier investment firm, launched a data analytics initiative to optimize client portfolio performance, detect investment trends, and mitigate risks. The project aimed to clean and analyze datasets related to clients, accounts, investments, transactions, and market prices using SQL for data cleaning and Python for advanced analysis and visualization.
 
